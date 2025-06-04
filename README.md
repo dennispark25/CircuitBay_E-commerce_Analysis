@@ -6,7 +6,7 @@ Sales trends analysis for e-commerce company
 ## ERD
 ![image](https://github.com/user-attachments/assets/ff5b4e02-d6c0-4ad6-b3b2-b36308c46e24)
 
-# Insights High-Level Summary
+# Executive Summary
 **Elist's** sales from 2019 to 2022 totaled **$28M** across **108k orders.** During this time, the company saw an **average order value (AOV)** of **$260 per order.**
 ## Sales Trends
 - 2020 saw an incredible **163% surge in sales** compared to the previous year, which can most likely be attributed to the increased demand at the start of the COVID lockdown. During this time, Elist's top 4 products (4k Gaming Monitor, Apple products, laptops) grew in sales by **204%**, driving peak overall sales of **$10M** and more than double the previous year's order count **(34k orders)**. March 2020 in particular stood out as the month with the highest MoM-growth in sales of **50%.**
