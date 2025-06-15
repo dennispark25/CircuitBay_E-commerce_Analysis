@@ -27,7 +27,7 @@ Sales trends analysis for e-commerce company
 ## Sales Trends
 ![image](https://github.com/user-attachments/assets/dd1efcae-3983-4314-adc3-bf47db9ad885)
 - **General Summary:** Overall, Elist saw an average **$585k in monthly sales** with an average monthly growth rate of **1.4%.**
-    - Analysis of Elist's sales data across 2019 - 2022 reveal a significant surge in sales of **163%**in 2020 during the COVID-19 pandemic followed by a **10% decline** in 2021.
+    - Analysis of Elist's sales data across 2019 - 2022 reveal a significant surge in sales of **163%** in 2020 during the COVID-19 pandemic followed by a **10% decline** in 2021.
     - Since then, sales performance has reverted back to pre-pandemic levels in 2022. While sales in 2022 remain superior **(+28%)** to that in 2019, the second half of '22 shows order count has decreased by **1k orders.**
 
 - **COVID-Era Growth:** Total revenue increased **54% YoY** in January and February of 2020 while every other year saw a drop in sales during these months, signaling a shift in consumer behavior.
