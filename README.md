@@ -1,9 +1,7 @@
 # Circuit Bay E-commerce Analysis
-Sales trends analysis for e-commerce company
-
-# Company Overview
+## Company Overview
 <p align="center">
-![CircuitBay Logo](https://github.com/user-attachments/assets/90e37ee0-399f-4dcc-b17d-e72d63e07384)
+![CircuitBay Logo](https://github.com/user-attachments/assets/704ddf62-5bc9-43e9-93c8-169216ab383d)
 </p>
 Founded in 2018, CircuitBay is a modern e-commerce company dedicated to reselling high-quality electronic products to a global audience. Since its launch as an online-only storefront, CircuitBay has quickly expanded its reach, offering a curated selection of in-demand brands including Apple, Samsung, Lenovo, and more to an ever growing international customer base. CircuitBay utilizes a strategic mix of digital marketing channels-such as targeted email & social media campaigns, SEO, and affiliate networks-to continue scaling its operations and remains focused on delivering value, innovation, and exceptional service in the ever-evolving electronics marketplace.
 
