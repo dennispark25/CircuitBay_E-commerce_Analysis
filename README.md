@@ -1,6 +1,13 @@
 # Circuit Bay E-commerce Analysis
 This analysis evaluates CircuitBay's performance from 2019–2022, surfacing trends in sales growth, product demand, and customer behavior to inform strategic recommendations for marketing, sales, and product teams.
 
+# Company Overview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b459f47-3c67-444e-8329-4d6ec53e056f" alt="CircuitBay Logo" height=375>
+</p>
+
+Founded in 2018, CircuitBay is a modern e-commerce company dedicated to reselling high-quality electronic products to a global audience. Since its launch as an online-only storefront, CircuitBay has quickly expanded its reach, offering a curated selection of in-demand brands including Apple, Samsung, Lenovo, and more to an ever growing international customer base. CircuitBay utilizes a strategic mix of digital marketing channels-such as targeted email & social media campaigns, SEO, and affiliate networks-to continue scaling its operations and remains focused on delivering value, innovation, and exceptional service in the ever-evolving electronics marketplace.
+
 ## ERD
 ![image](https://github.com/user-attachments/assets/ff5b4e02-d6c0-4ad6-b3b2-b36308c46e24)
 
@@ -20,13 +27,6 @@ CircuitBay achieved **$28M** in sales revenue from 2019 to 2022, fulfilling **10
 
 ## Apple Refunds
 - Apple products make up **58% of all refunds** from 2019 to 2022. Airpods stand out as the most ordered and most refunded product **(48k orders & 49% of all refunds)**, but it maintains a lower individual product refund rate **(5.4%)** than average when compared to other products
-
-# Company Overview
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b459f47-3c67-444e-8329-4d6ec53e056f" alt="CircuitBay Logo" height=375>
-</p>
-
-Founded in 2018, CircuitBay is a modern e-commerce company dedicated to reselling high-quality electronic products to a global audience. Since its launch as an online-only storefront, CircuitBay has quickly expanded its reach, offering a curated selection of in-demand brands including Apple, Samsung, Lenovo, and more to an ever growing international customer base. CircuitBay utilizes a strategic mix of digital marketing channels-such as targeted email & social media campaigns, SEO, and affiliate networks-to continue scaling its operations and remains focused on delivering value, innovation, and exceptional service in the ever-evolving electronics marketplace.
 
 # Insights Deep Dive
 
